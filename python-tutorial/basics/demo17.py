@@ -3,4 +3,4 @@
 a=20
 b=20
 if a>=b:
-    print("a is greter than b")
+    print("a is greater than or equal to b")
