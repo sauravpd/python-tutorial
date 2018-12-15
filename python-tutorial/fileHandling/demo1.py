@@ -3,5 +3,8 @@ from io import open
 
 text='File Handling example'
 file=open('writeFileExample.txt','w')
+
 file.write(text)
-file.close();
+
+#close file
+file.close()
