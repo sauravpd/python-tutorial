@@ -1,6 +1,7 @@
+#while loop
 
-#Variables
+condtion=1
 
-
-exampleVar=
-
+while condtion <= 10 :
+   print(condtion)
+   condtion+=1
