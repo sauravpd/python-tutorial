@@ -6,6 +6,7 @@ def add(a,b):
     result=a+b
     return result
 
+#print result
 print(result)
 
 #calling add function
