@@ -7,4 +7,6 @@ def show():
     global b
     b+=5;
     print(b)
+
+# calling functions
 show()
