@@ -5,4 +5,6 @@ b=95
 
 # convert to int
 c=int(a)+b
-print(c)
+
+#result
+print(c) # output -> 100
